@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "Global",
+    "Alias",
+    "Component/Lightmode",
+    "Component/Darkmode",
+    "Language/English",
+    "Language/Spanish"
+  ]
+}
