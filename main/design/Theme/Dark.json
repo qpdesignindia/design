@@ -1,0 +1,32 @@
+{
+  "Bg": {
+    "default": {
+      "value": "{colors.gray.900}",
+      "type": "color"
+    }
+  },
+  "Text": {
+    "Default": {
+      "value": "{colors.white}",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "{colors.gray.300}",
+      "type": "color"
+    },
+    "subtle2": {
+      "value": "{colors.gray.500}",
+      "type": "color"
+    }
+  },
+  "Brand": {
+    "onDefault": {
+      "value": "{onAccent.Default}",
+      "type": "color"
+    },
+    "Default": {
+      "value": "{Accent.Default}",
+      "type": "color"
+    }
+  }
+}

@@ -1,1 +1,18 @@
-{}
+{
+  "Heading": {
+    "value": "John Wick",
+    "type": "text"
+  },
+  "Sub Heading": {
+    "value": "Drama • Crime • Action • 6 language",
+    "type": "text"
+  },
+  "Description": {
+    "value": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him",
+    "type": "text"
+  },
+  "Button": {
+    "value": "Watch Now",
+    "type": "text"
+  }
+}

@@ -1,1 +1,87 @@
-{}
+{
+  "card": {
+    "borderRadius": {
+      "value": "{borderRadius.lg}",
+      "type": "borderRadius"
+    },
+    "padding": {
+      "value": "{dimension.md}",
+      "type": "dimension"
+    }
+  },
+  "typography": {
+    "H1": {
+      "Bold": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingBold}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h5}",
+          "paragraphSpacing": "{paragraphSpacing.h1}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        }
+      },
+      "Regular": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingRegular}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h5}",
+          "paragraphSpacing": "{paragraphSpacing.h1}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        }
+      }
+    },
+    "H2": {
+      "Bold": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingBold}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h6}",
+          "paragraphSpacing": "{paragraphSpacing.h2}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        }
+      },
+      "Regular": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingRegular}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h6}",
+          "paragraphSpacing": "{paragraphSpacing.h2}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        }
+      }
+    },
+    "Body": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fontFamilies.body}",
+        "fontWeight": "{fontWeights.bodyRegular}",
+        "lineHeight": "{lineHeights.heading}",
+        "fontSize": "{fontSizes.body}",
+        "paragraphSpacing": "{paragraphSpacing.h2}"
+      }
+    }
+  },
+  "Button": {
+    "value": {
+      "fontFamily": "{fontFamilies.body}",
+      "fontWeight": "{fontWeights.bodyBold}",
+      "fontSize": "{fontSizes.h6}",
+      "lineHeight": "{lineHeights.body}"
+    },
+    "type": "typography"
+  },
+  "button": {
+    "padding": {
+      "value": "{dimension.sm}",
+      "type": "dimension"
+    }
+  }
+}

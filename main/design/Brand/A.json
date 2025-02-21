@@ -1,0 +1,18 @@
+{
+  "Accent": {
+    "Default": {
+      "value": "{colors.blue.700}",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "{colors.blue.400}",
+      "type": "color"
+    }
+  },
+  "onAccent": {
+    "Default": {
+      "value": "{colors.gray.100}",
+      "type": "color"
+    }
+  }
+}

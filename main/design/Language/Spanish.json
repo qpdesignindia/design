@@ -1,1 +1,18 @@
-{}
+{
+  "Heading": {
+    "value": "John mecha",
+    "type": "text"
+  },
+  "Sub Heading": {
+    "value": "Drama • Crimen • Acción • 6 idiomas",
+    "type": "text"
+  },
+  "Description": {
+    "value": "El ex sicario John Wick sale de su retiro para localizar a los mafiosos que le quitaron todo",
+    "type": "text"
+  },
+  "Button": {
+    "value": "Ver ahora",
+    "type": "text"
+  }
+}

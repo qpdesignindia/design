@@ -1,10 +1,14 @@
 {
   "tokenSetOrder": [
-    "Global",
+    "Global/Colors",
+    "Global/Dimensions",
     "Alias",
-    "Component/Lightmode",
-    "Component/Darkmode",
     "Language/English",
-    "Language/Spanish"
+    "Language/Spanish",
+    "Language/Hindi",
+    "Theme/Light",
+    "Theme/Dark",
+    "Brand/A",
+    "Brand/B"
   ]
 }
